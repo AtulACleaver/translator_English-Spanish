@@ -1,0 +1,19 @@
+:host {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    align-items: flex-start;
+  }
+  
+  label {
+    font-size: 20px;
+  }
+  
+  input {
+    margin-bottom: 10px;
+  }
+  
+  h1 {
+    margin: 5px 0 10px;
+    font-size: 30px;
+  }  
